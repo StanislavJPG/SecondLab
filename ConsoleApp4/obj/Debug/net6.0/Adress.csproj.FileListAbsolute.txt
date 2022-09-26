@@ -1,0 +1,15 @@
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\Adress.exe
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\Adress.deps.json
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\Adress.runtimeconfig.json
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\Adress.dll
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\Adress.pdb
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\Adress.csproj.AssemblyReference.cache
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\Adress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\Adress.AssemblyInfoInputs.cache
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\Adress.AssemblyInfo.cs
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\Adress.csproj.CoreCompileInputs.cache
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\Adress.dll
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\Adress.dll
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\Adress.pdb
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\Adress.genruntimeconfig.cache
+C:\Users\sampe\Folder\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\Adress.dll

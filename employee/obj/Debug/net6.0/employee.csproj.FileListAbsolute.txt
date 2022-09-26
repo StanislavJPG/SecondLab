@@ -1,0 +1,15 @@
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\employee.csproj.AssemblyReference.cache
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\employee.AssemblyInfoInputs.cache
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\employee.AssemblyInfo.cs
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\employee.csproj.CoreCompileInputs.cache
+C:\Users\sampe\Folder\ConsoleApp4\employee\bin\Debug\net6.0\employee.exe
+C:\Users\sampe\Folder\ConsoleApp4\employee\bin\Debug\net6.0\employee.deps.json
+C:\Users\sampe\Folder\ConsoleApp4\employee\bin\Debug\net6.0\employee.runtimeconfig.json
+C:\Users\sampe\Folder\ConsoleApp4\employee\bin\Debug\net6.0\employee.dll
+C:\Users\sampe\Folder\ConsoleApp4\employee\bin\Debug\net6.0\employee.pdb
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\employee.dll
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\refint\employee.dll
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\employee.pdb
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\employee.genruntimeconfig.cache
+C:\Users\sampe\Folder\ConsoleApp4\employee\obj\Debug\net6.0\ref\employee.dll
